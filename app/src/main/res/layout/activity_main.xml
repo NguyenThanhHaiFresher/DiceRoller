@@ -15,7 +15,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:textSize="25sp"
-        android:text="Bấm Roll để thực hiện tung xúc xắc" />
+        android:text="Hello World" />
 
     <Button
         android:id="@+id/roll_button"
